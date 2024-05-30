@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">10-02</string>
+    <string name="autorithTExt">Авторизация</string>
+    <string name="loginText">введите имя</string>
+    <string name="passText">введите пароль</string>
+    <string name="logIn">Войти</string>
+    <string name="applyTrye">Вход успешен</string>
+    <string name="applyFalse">Вход не удался, проверте введенные данные</string>
+</resources>
